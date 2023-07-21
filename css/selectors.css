@@ -1,0 +1,26 @@
+section{
+    display: grid;
+    grid-template-areas: 
+    'A C D'
+    'B C D';
+}
+
+.logo-A{
+    grid-area: A;
+}
+
+.links-B{
+    grid-area: B;
+}
+
+div:nth-of-type(3){
+    grid-area: C;
+}
+
+div:nth-of-type(4){
+    grid-area: D;
+}
+
+/* .list-D p:nth-of-type(odd){
+    color: green
+} */
