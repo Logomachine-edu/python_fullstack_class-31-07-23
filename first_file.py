@@ -1,3 +1,3 @@
 # Мой перввый код на Python
-print("Hello world!")
+print("Hello dogs!")
 # => Hello, world!
