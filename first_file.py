@@ -4,3 +4,6 @@ print("Hello cats 2!")
 print("Hello cats 3!")
 print("Hello cats 4!")
 print("Hello cats 5!")
+
+# этот код работает как надо!
+# автор - разраб №1
