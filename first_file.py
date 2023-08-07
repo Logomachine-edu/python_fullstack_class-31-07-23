@@ -1,2 +1,2 @@
 #мой первый код на Python
-print('Hello, world!')
+print('Hello world!')
