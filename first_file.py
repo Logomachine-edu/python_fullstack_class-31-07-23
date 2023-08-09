@@ -1,2 +1,2 @@
 # мой первый код на пайтон
-print ('Hello, World!')
+print ('Hello, Dogs!')
