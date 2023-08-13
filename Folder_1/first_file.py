@@ -1,4 +1,4 @@
 # Мой первый код на Python
-print('Hello dogs 1!')
-print('Hello dogs 2!')
-print('Hello dogs 3!')
+print('Hello cats 1!')
+print('Hello cats 2!')
+print('Hello cats 3!')
