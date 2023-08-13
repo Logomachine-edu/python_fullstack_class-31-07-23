@@ -1,2 +1,4 @@
 #мой первый код на Python
-print('Hello, dogs!')
+print('Hello, cat 1!')
+print('Hello, cat 2!')
+print('Hello, car 3!')
